@@ -1,0 +1,5 @@
+{
+  "name": "Manga-fy 90s",
+  "description": "Generate high-quality 1990s-style manga artwork from text descriptions or uploaded images using Google's Gemini and Imagen APIs.",
+  "requestFramePermissions": []
+}
