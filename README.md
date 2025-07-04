@@ -1,6 +1,6 @@
 # 🖤 Manga-fy 90s
 
-A 1990s-style manga image generator built with **Google AI Studio**, powered by **Imagen API** and **Gemini SDKs**. This app transforms user text prompts or uploaded photos into stylized black-and-white manga artwork — complete with halftone shading, bold linework, and retro comic vibes.
+A 1990s-style manga image generator built with **Google AI Studio**, powered by **Imagen API** and **Gemini SDKs**. This app transforms user text prompts or uploaded photos into stylized black-and-white manga artwork, complete with halftone shading, bold linework, and retro comic vibes.
 
 ---
 
